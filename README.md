@@ -1,0 +1,2 @@
+# eclairbot
+discord bot
